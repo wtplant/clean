@@ -1,0 +1,99 @@
+{%extends "base.html"%}
+{%load static%}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+
+</head>
+<!https://lightsail.aws.amazon.com/ls/webapp/create/instance?region=ca-central-1>
+<body>
+	{% block content%}
+	<h2> Select Projects</h2>
+	</br>
+    <div class="container home" role="main">
+        <ul class="list works-list">
+			<li>
+                <div class="image">
+                    <a href=>
+                        <img src="{% static 'images/img_2.jpg'%}" alt="Moving Archives" />
+                    </a>
+                </div>
+                <p><a href="https://wtplant.github.io/truisms/">Truisms App</a></p>
+
+                <p>Created simple React app that returns axioms from 
+				Jen Holzers work 
+				<a href="https://www.moma.org/collection/works/63755"><em>Truisms</em></a>. 
+				<b>ChatGPT</b> was used to transform a <em>Python</em> script into a <em>React JS</em> web app. 
+				The app was then deployed using <b>GitHub pages</b>. 
+				Check out the app <a href="https://wtplant.github.io/truisms/">here</a>.
+				</p>
+                <small>2023</small>
+            </li>
+			
+			<li>
+                <div class="image">
+                    <a href=>
+                        <img src="{% static 'images/1939.png'%}" alt="Moving Archives" />
+                    </a>
+				</div>
+					<p><b>Focus on Web3 and Blockchain</b>
+              <small>2022</small>
+            </li>
+
+			<li>
+                <div class="image">
+                    <a href="https://wtplant.medium.com/automating-wordpress-with-python-and-ubuntu-4baca6c54bf9">
+                        <img src="{% static 'images/AE.JPG'%}" alt="Automation" />
+                    </a>
+                </div>
+                <p><a href=>Automation with Python</a></p>
+
+                <p>Created a bot that posts content to a WordPress site daily. The bot was created 
+				using python, and deployed on an Ubuntu server via AWS. Check out the blog post and video
+				<a href="https://wtplant.medium.com/automating-wordpress-with-python-and-ubuntu-4baca6c54bf9"><em>here</em></a> </p>
+
+                <small>2021</small>
+            </li>
+			
+			<li>
+                <div class="image">
+                    <a href=>
+                        <img src="{% static 'images/dp.jpg'%}" alt="Django Website" />
+                    </a>
+                </div>
+                <p><a href=>Personal Site</a></p>
+
+                <p>This website (the one you're on now) was built with Python using the Django Web Framework. 
+					It was deployed via <a href="https://aws.amazon.com/lightsail/faq/">AWS Lightsail</a> and 
+					an Apache Web Server.  
+				</p>
+
+                <small>2020 May</small>
+            </li>
+			
+            <li>
+                <div class="image">
+					<a href="http://www.edibledialect.com/">
+                        <img src="{% static 'images/edible.JPG'%}" alt="Edible Dialect" />
+                    </a>
+                </div>
+                <p><a href="http://www.edibledialect.com/">Edible Dialect</a></p>
+
+                <p> An aggregate food review website, compiling ratings from across the web to create a 
+				composite score. Created using CSS and HTML for UX interface design. Now utilizes Wordpress for 
+				more dynamic web experience.</p>
+
+                <small>2019 ongoing</small>
+            </li>
+        </ul>    
+            
+    </div>
+    {%endblock%}
+
+
+
+</body>
+
+</html>
