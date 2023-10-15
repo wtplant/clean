@@ -13,3 +13,9 @@ This is my personal website, with links to all of my projects. The website, and 
  **Acknowledgments:**
  
 Django Python Library 
+
+**Changelog**
+
+Website Version 1.0.7
+
+For support reach out to: https://chat.openai.com/
