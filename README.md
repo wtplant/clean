@@ -6,6 +6,9 @@ This is my personal website, with links to all of my projects. The website, and 
 
 `cd apps/django/django_projects/clean/`
 
+**To update the about page edit the following html file:**
+clean/templates/home.html
+
 **Licenses:** 
  
  include MIT, Apache
