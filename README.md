@@ -7,7 +7,12 @@ This is my personal website, with links to all of my projects. The website, and 
 `cd apps/django/django_projects/clean/`
 
 **To update the about page edit the following html file:**
+
 clean/templates/home.html
+
+**For the remaining pages the home and contact, they can be found in the  
+same directory in index and contact files respectively. The 
+base.html is the main template layout for all pages.**
 
 **Licenses:** 
  
