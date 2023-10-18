@@ -14,6 +14,9 @@ clean/templates/home.html
 same directory in index and contact files respectively. The 
 base.html is the main template layout for all pages.**
 
+**application directory** for Bitnami setup `/home/bitnami/stack` utilizes apache2 |
+*please read the README.txt in this directory for addtional info*
+
 **Licenses:** 
  
  include MIT, Apache
