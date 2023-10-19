@@ -16,6 +16,14 @@ base.html is the main template layout for all pages.**
 
 **application directory** for Bitnami setup `/home/bitnami/stack` utilizes apache2 |
 *please read the README.txt in this directory for addtional info*
+**There is a wealth of information there including the following:**
+```
+Bitnami Django Stack ships with the following:
+Django 2.2.9
+Python
+<omitted>
+Apache 2.4.21
+```
 
 **Licenses:** 
  
