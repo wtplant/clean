@@ -11,8 +11,13 @@ This is my personal website, with links to all of my projects. The website, and 
 clean/templates/home.html
 
 **For the remaining pages the home and contact, they can be found in the  
-same directory in index and contact files respectively. The 
+same directory in `index` and `contact` files respectively. The 
 base.html is the main template layout for all pages.**
+
+**TO DO**
+- [ ] Add Resume back to about page 
+- [ ] Add Certifications
+- [ ] Add Link to GitHub 
 
 **application directory** for Bitnami setup `/home/bitnami/stack` utilizes apache2 |
 *please read the README.txt in this directory for addtional info*
