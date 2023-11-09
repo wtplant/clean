@@ -15,7 +15,7 @@ same directory in `index` and `contact` files respectively. The
 base.html is the main template layout for all pages.**
 
 **TO DO**
-- [ ] Add Resume back to about page 
+- [ ] Add Resume back to about page | or create links directory 
 - [ ] Add Certifications
 - [ ] Add Link to GitHub 
 
