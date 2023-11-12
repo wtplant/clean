@@ -18,7 +18,7 @@ base.html is the main template layout for all pages.**
 - [ ] Add Resume back to about page | or create links directory 
 - [ ] Add Certifications
 - [ ] Add Link to GitHub
-- [ ] Change language for Streamlit section to 'Ethereum JSON RPC API (May remove 'standard') and link here: https://ethereum.org/en/developers/docs/apis/json-rpc/
+- [x] Change language for Streamlit section to 'Ethereum JSON RPC API (May remove 'standard') and link here: https://ethereum.org/en/developers/docs/apis/json-rpc/
 
 **application directory** for Bitnami setup `/home/bitnami/stack` utilizes apache2 |
 *please read the README.txt in this directory for addtional info*
