@@ -17,9 +17,10 @@ same directory in `index` and `contact` files respectively. The
 base.html is the main template layout for all pages.**
 
 **TO DO**
-- [ ] Add Resume back to about page | or create links directory
-- [ ] Remove .pages and .docx files locally and push changes here
-- [ ] Add Certifications
+- [x] Add Resume back to about page | or create links directory
+- [x] Remove .pages and .docx files locally and push changes here
+- [ ] Fix SVG and iterate on Resume 
+- [ ] Add Certifications logos
 - [x] Add Link to GitHub
 - [x] Change language for Streamlit section to 'Ethereum JSON RPC API (May remove 'standard') and link here: https://ethereum.org/en/developers/docs/apis/json-rpc/
 
