@@ -19,11 +19,12 @@ base.html is the main template layout for all pages.**
 **TO DO**
 - [x] Add Resume back to about page | or create links directory
 - [x] Remove .pages and .docx files locally and push changes here
-- [ ] Iterate on Resume add wordpress, ethers.js, web3.py 
+- [ ] Iterate on Resume add wordpress, ethers.js, web3.py and Elasticsearch
 - [ ] Add Certifications logos in SVG format with inkscape
 - [x] Add Link to GitHub
 - [x] Change language for Streamlit section to 'Ethereum JSON RPC API (May remove 'standard') and link here: https://ethereum.org/en/developers/docs/apis/json-rpc/
 - [ ] Archive Edible Dialect and pass in links to the way back machine https://web.archive.org/web/20171015000000*/http://www.edibledialect.com/
+- [ ] before archiving Edible Dialect, be sure to create a repository here
 
 **application directory** for Bitnami setup `/home/bitnami/stack` utilizes apache2 |
 *please read the README.txt in this directory for addtional info*
