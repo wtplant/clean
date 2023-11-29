@@ -23,6 +23,7 @@ base.html is the main template layout for all pages.**
 - [ ] Add Certifications logos in SVG format with inkscape
 - [x] Add Link to GitHub
 - [x] Change language for Streamlit section to 'Ethereum JSON RPC API (May remove 'standard') and link here: https://ethereum.org/en/developers/docs/apis/json-rpc/
+- [ ] Archive Edible Dialect and pass in links to the way back machine https://web.archive.org/web/20171015000000*/http://www.edibledialect.com/
 
 **application directory** for Bitnami setup `/home/bitnami/stack` utilizes apache2 |
 *please read the README.txt in this directory for addtional info*
