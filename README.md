@@ -19,7 +19,8 @@ base.html is the main template layout for all pages.**
 **TO DO**
 - [x] Add Resume back to about page | or create links directory
 - [x] Remove .pages and .docx files locally and push changes here
-- [ ] Iterate on Resume add wordpress, ethers.js, web3.py and Elasticsearch
+- [x] Iterate on Resume add ethers.js, web3.py and
+- [ ] Consider adding Elasticsearch and Wordpress to the Skills section
 - [ ] Add Certifications logos in SVG format with inkscape
 - [x] Add Link to GitHub
 - [x] Change language for Streamlit section to 'Ethereum JSON RPC API (May remove 'standard') and link here: https://ethereum.org/en/developers/docs/apis/json-rpc/
