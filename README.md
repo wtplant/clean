@@ -27,7 +27,8 @@ base.html is the main template layout for all pages.**
 - [ ] Archive Edible Dialect and pass in links to the way back machine https://web.archive.org/web/20171015000000*/http://www.edibledialect.com/
 - [x] before archiving Edible Dialect, be sure to create a repository here
 - [x] Make contact page info hrefs
-- [ ] work on CSS, format h2 headers and switch from 3 to 4 columns 
+- [ ] work on CSS, format h2 headers and switch from 3 to 4 columns
+- [ ] Add all of the chains that you worked with to Resume
 
 **application directory** for Bitnami setup `/home/bitnami/stack` utilizes apache2 |
 *please read the README.txt in this directory for addtional info*
