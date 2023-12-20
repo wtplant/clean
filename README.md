@@ -30,6 +30,7 @@ base.html is the main template layout for all pages.**
 - [ ] work on CSS, format h2 headers and switch from 3 to 4 columns
 - [x] Add all of the chains that you worked with to Resume
 - [ ] stay motivated
+- [ ] Add pager duty to skills
 
 **application directory** for Bitnami setup `/home/bitnami/stack` utilizes apache2 |
 *please read the README.txt in this directory for addtional info*
