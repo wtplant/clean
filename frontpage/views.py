@@ -10,4 +10,6 @@ def about_v(request, *args,**kwargs):
 
 def contact_v(request, *args,**kwargs):
     return render(request,"contact.html", {})
-   
+
+def chat_v(request, *args,**kwargs):
+    return render(request,"chat.html", {})
