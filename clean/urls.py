@@ -23,6 +23,5 @@ urlpatterns = [
     #path('', home_v, name='home')
     path('', home_view, name='home'),
     path('about/', about_v, name='about'),
-    path('contact/', contact_v, name='contact'),
-    path('chat/', chat_v, name='chat')
+    path('contact/', contact_v, name='contact')
 ]
