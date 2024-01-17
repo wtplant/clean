@@ -32,6 +32,7 @@ base.html is the main template layout for all pages.**
 - [ ] stay motivated
 - [x] Add pager duty to skills
 - [ ] Consder adding an MOTD here and on blockmatics
+- [ ] Add REST API
 
 **application directory** for Bitnami setup `/home/bitnami/stack` utilizes apache2 |
 *please read the README.txt in this directory for addtional info*
