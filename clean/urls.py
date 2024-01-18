@@ -16,12 +16,13 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 #from frontpage.views import home_v
-from frontpage.views import home_view, about_v, contact_v
+from frontpage.views import home_view, about_v, contact_v, chat_v
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     #path('', home_v, name='home')
     path('', home_view, name='home'),
     path('about/', about_v, name='about'),
-    path('contact/', contact_v, name='contact')
+    path('contact/', contact_v, name='contact'),
+    path('chat/', chat_v, name='chat')
 ]
