@@ -59,4 +59,4 @@ Django Python Library
 
 Website Version 1.0.7
 
-For support reach out to: https://chat.openai.com/
+
