@@ -37,6 +37,7 @@ base.html is the main template layout for all pages.**
 - [ ] Add GH links for each of these projects
 - [ ] Add a calendly feature to voiceflow project
 - [ ] add additional functionality Voice to text feature using open ai wisper
+- [ ] Creat a mision control private repo and move all ToDo's there 
 
 **application directory** for Bitnami setup `/home/bitnami/stack` utilizes apache2 |
 *please read the README.txt in this directory for addtional info*
