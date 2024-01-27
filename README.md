@@ -33,11 +33,12 @@ base.html is the main template layout for all pages.**
 - [x] Add pager duty to skills
 - [ ] Consder adding an MOTD here and on blockmatics
 - [x] Add REST API
+- [ ] Change the height parameter for the chat iframe
 - [ ] Clean up repos | open this one to public
 - [ ] Add GH links for each of these projects
-- [ ] Add a calendly feature to voiceflow project
+- [ ] possibly add a calendly feature to ~voiceflow project~ openai assistant project
 - [ ] add additional functionality Voice to text feature using open ai wisper
-- [ ] Creat a mision control private repo and move all ToDo's there 
+- [ ] Creat a **mision control** private repo and move all ToDo's there 
 
 **application directory** for Bitnami setup `/home/bitnami/stack` utilizes apache2 |
 *please read the README.txt in this directory for addtional info*
