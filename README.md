@@ -2,19 +2,13 @@
 
 This is my personal website, with links to all of my projects. The website, and the project were  built with Python using the Django Web Framework. It was deployed via AWS Lightsail and an Apache Web Server.
 
-**TO START, THE PROJECT RESIDES IN THE FOLLOWING DIRECTORY ON THE SERVER:**
+#### To start, ensure you're in the root directory of the project.
 
-`cd apps/django/django_projects/clean/`
+To pull updates from this repository, ensure you have the necessary permissions.
 
-To pull from this repo on the lightsail instance, be sure to be logged on as super user. 
+To update the about page, edit the `home.html` file located in the `templates` directory.
 
-**To update the about page edit the following html file:**
-
-clean/templates/home.html
-
-**For the remaining pages the home and contact, they can be found in the  
-same directory in `index` and `contact` files respectively. The 
-base.html is the main template layout for all pages.**
+the remaining html docs can be found in the  same directory. **The base.html is the main template layout for all pages.**
 
 
 **application directory** for Bitnami setup `/home/bitnami/stack` utilizes apache2 |
