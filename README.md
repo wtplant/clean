@@ -1,6 +1,6 @@
 **williamplant.net**
 
-This is my personal website, with links to all of my projects. The website, and the project were  built with Python using the Django Web Framework. It was deployed via AWS Lightsail and an Apache Web Server.
+This is my personal website, with links to all of my projects. The website was built with Python using the Django Web Framework. It was deployed via AWS Lightsail and an Apache Web Server.
 
 #### To start, ensure you're in the root directory of the project.
 
